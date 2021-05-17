@@ -1,0 +1,20 @@
+.results{
+    height: 125px;
+    background-color: #f8de7e;
+}
+.results .input{
+    text-align: right;
+    padding-right: 10px;
+    height: 65px;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+.results .final-result{
+    text-align: right;
+    padding-right: 10px;
+    height: 65px;
+    font-size: 35px;
+
+}
